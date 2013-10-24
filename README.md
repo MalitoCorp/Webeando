@@ -79,7 +79,7 @@ Webeando Fácil es un curso para la creación de aplicaciones web fácil y rápi
 	- [Libertad, desarrollo y distribución.](10 Que Es Firefox OS/03 Libertad desarrollo y distribucion.md)
 	
 11. [Firefox OS.](11 Firefox OS/Firefox OS.md)
-	- El Manifiesto de la aplicación (Application Manifest)
+	- [El Manifiesto de la aplicación (Application Manifest)](11 Firefox OS/01 El Manifiesto de la aplicacion.md)
 	- Tipos de aplicación.
 	- Security Access Levels.
 	- WebAPI’s de Mozilla.

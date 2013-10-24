@@ -1,0 +1,53 @@
+/*Reset de todos los elementos.*/
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: #383838;
+	color: #ffffff; 
+}
+
+.exterior{
+	margin: 50px auto;
+	width: 280px;
+	padding: 20px;
+	border: solid 5px #000000;
+	border-radius: 20px;
+}
+
+.interior{
+	border: solid 6px #000000;
+	border-radius: 20px;
+	background: #ffffff;
+	height: calc(280px - 12px); /*Compenso el espacio del borde*/
+	color: #000000;
+	text-align: center; /*Alineacion del texto*/
+}
+
+#logo{
+	width: 70%;
+	height: 100px;
+	margin: 50px auto 0 auto;
+}
+
+h1{
+	font-size: 3em;
+	font-family: sans-serif; /*Tipo de fuente*/
+	font-weight: bold; /*Texto en negrita*/
+}
+
+/*Selector por herencia*/
+h1 span{
+	font-size: .5em; /*Tamaño de fuente*/
+	vertical-align: top; /*Alineacion vertical*/
+	line-height: 1.5em; /*Alto de la linea lo ajusto a la mitad del contenedor (3em).*/
+	font-weight: normal; 
+}
+
+p{
+	text-align: right; 
+	margin: 0 20px 0 0;
+	letter-spacing: .5em; /*Espacio entre letras*/
+}

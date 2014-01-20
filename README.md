@@ -5,7 +5,7 @@ Webeando Fácil es un curso para la creación de aplicaciones web fácil y rápi
 
 > ###Cronograma del curso (Sesiones de 45 min):
 >
-> - Intoducción a la programación web.
+> - Introducción a la programación web.
 > - Construcción de una GUI con BuildingBlocks.
 > - JavaScript.
 > - Web API's.
@@ -13,13 +13,13 @@ Webeando Fácil es un curso para la creación de aplicaciones web fácil y rápi
 
 ###Temario:
 
-#### [Introcucción](00 Introduccion/Introduccion.md)
+#### [Introducción](00 Introduccion/Introduccion.md)
 
 01. [Partes de una web.](01 Partes de una web/Partes de una Web.md)
 
 02. [Herramientas de desarrollo.](02 Herramientas de desarrollo/Herramientas de desarrollo.md)
 
-03. [HTML "Qué es y cómo se come".](03 HTML/HTML.md)
+03. [HTML "¿Qué es y cómo se come?".](03 HTML/HTML.md)
 	- [¿Qué es el DOM?](03 HTML/01 Que es el DOM.md)
 
 04. [Hojas de estilo (CSS).](04 Hojas de estilo/Hojas de estilo.md)
@@ -74,7 +74,7 @@ Webeando Fácil es un curso para la creación de aplicaciones web fácil y rápi
 	- De Webapp a Firefox OS App.
 	
 10. [¿Qué es Firefox OS?](10 Que Es Firefox OS/Que es Firefox OS.md)
-	- [Cómo se construye Firefox OS.](10 Que Es Firefox OS/01 Como se construye Firefox OS.md)
+	- [¿Cómo se construye Firefox OS?.](10 Que Es Firefox OS/01 Como se construye Firefox OS.md)
 	- [Comunidad.](10 Que Es Firefox OSx/02 Comunidad.md)
 	- [Libertad, desarrollo y distribución.](10 Que Es Firefox OS/03 Libertad desarrollo y distribucion.md)
 	

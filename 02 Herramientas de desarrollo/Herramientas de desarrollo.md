@@ -33,7 +33,7 @@ El término *desarrollo web* puede entenderse como la programación del sitio we
 
 Así el diseño web engloba crear las interfaces gráficas que serán vistas por el usuario final, es el modo de interacción entre él y el sitio web o webapp, para ello se tienen las siguientes herramientas de solución:
 
-##Diseño gráfico
+###Diseño gráfico
 
 - Illustrator
 - Gimp

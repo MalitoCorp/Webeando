@@ -19,6 +19,6 @@ Por último, facilitaron la vida de los desarrolladores, ya que optaron porque l
 
 ##Diferencia
 
-Se puede pensar que Firefox OS es simple y humilde en cuanto a hardware refiere, pero se tiene en cuenta que muchas personas prefieren hacer hincapié en una tecnología libre como la propuesta por la **Fundación Mozilla** en todos sus productos, y evitar atarse a compañías que restringen mucho el acceso a la tecnología de sus equipos.
+Se puede pensar que **Firefox OS** es simple y humilde en cuanto a hardware refiere, pero se tiene en cuenta que muchas personas prefieren hacer hincapié en una tecnología libre como la propuesta por la **Fundación Mozilla** en todos sus productos, y evitar atarse a compañías que restringen mucho el acceso a la tecnología de sus equipos.
 
 A su vez, **Firefox OS** demuestra en base a la tecnología desplegada al momento de hacer funcionar su sistema operativo y su ecosistema de aplicaciones, que la tecnología de punta no siempre es la mejor. Sólo con los elementos básicos que componen la web de ayer y de hoy, también se pueden tener grandiosas aplicaciones y mucho mejor, poder desarrollarlas a cualquier gusto.

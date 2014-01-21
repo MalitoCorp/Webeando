@@ -15,7 +15,7 @@ El principal objetivo de esta plataforma fue facilitarle la vida a los usuarios 
 
 También los mismos ingenieros del producto buscaron evitar las clásicas complicaciones que implica avocarse al desarrollo de un sistema operativo, un *SDK*, un lenguaje de desarrollo específico, o la opción de adaptar un *IDE* como *Eclipse* que permita desarrollar Apps móviles para esta plataforma, fácil de desarrollar y mantener, que exija poco hardware y que se base en alguna tecnología existente que lo ayude a expandirse rápidamente por el ecosistema móvil.
 
-Por último, facilitaron la vida de los desarrolladores, ya que optaron porque la plataforma **Firefox OS** corriera aplicaciones basadas en el estándar **HTML5 + CSS + JavaScript**. Con esto último, cualquier web existente puede adaptarse con cambios mínimos en su estructura como una App dentro de este sistema operativo.
+Por último, facilitaron la vida de los desarrolladores, ya que optaron porque la plataforma **Firefox OS** corriera aplicaciones basadas en el estándar **HTML5 + CSS3 + JavaScript**. Con esto último, cualquier web existente puede adaptarse con cambios mínimos en su estructura como una App dentro de este sistema operativo.
 
 ##Diferencia
 
